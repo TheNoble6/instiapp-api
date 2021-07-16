@@ -184,3 +184,5 @@ CELERY_DELAY = 0
 DEFAULT_FROM_EMAIL = 'webmaster@localhost'
 
 COMPLAINT_AUTO_SUBSCRIBE = True
+
+DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
